@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 
-<p align="left"> <a href="https://twitter.com/darshil_22" target="blank"><img src="https://img.shields.io/twitter/follow/darshil_22?logo=twitter&style=for-the-badge" alt="darshil_22" /></a> </p>
+
 
 - 📫 How to reach me **darshilchitranshi2204@gmail.com**
 
